@@ -3,7 +3,7 @@
 <!-- ======================================================= -->
 
 <h1 align="center">Jayraj Sinh Zala</h1>
-<h3 align="center">Software Engineer · Distributed Systems · Full-Stack · App Developer </h3>
+<h3 align="center">Software Engineer · Distributed Systems · Full-Stack & App Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=6E57E0&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full-Stack+(MERN+%2B+FastAPI);AI-Powered+Automation+%7C+System+Design;Production-Ready+Engineering+Mindset" />
