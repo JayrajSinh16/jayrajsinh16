@@ -5,9 +5,9 @@
 <h1 align="center">Jayraj Sinh Zala</h1>
 <h3 align="center">Software Engineer · Distributed Systems · Full-Stack  Web & App Developer </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=6E57E0&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full-Stack+(MERN+%2B+FastAPI);AI-Powered+Automation+%7C+System+Design;Production-Ready+Engineering+Mindset" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="980" />
